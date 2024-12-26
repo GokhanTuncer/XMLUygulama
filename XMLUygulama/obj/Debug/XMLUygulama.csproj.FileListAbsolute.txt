@@ -1,0 +1,10 @@
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\bin\Debug\XMLUygulama.exe.config
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\bin\Debug\XMLUygulama.exe
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\bin\Debug\XMLUygulama.pdb
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.csproj.AssemblyReference.cache
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.Form1.resources
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.Properties.Resources.resources
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.csproj.GenerateResource.cache
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.csproj.CoreCompileInputs.cache
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.exe
+C:\Users\gokha\source\repos\XMLUygulama(28.11.2022)\XMLUygulama\obj\Debug\XMLUygulama.pdb

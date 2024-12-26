@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+  <ogrenci no="1">
+    <adSoyad>Ali Veli</adSoyad>
+    <telefon>555 555 55</telefon>
+  </ogrenci>
+  <ogrenci no="2">
+    <adSoyad>Eda Koç</adSoyad>
+    <telefon>333 33 33</telefon>
+  </ogrenci>
+  <ogrenci no="3">
+    <adSoyad>Cem Ayaz</adSoyad>
+    <telefon>555 77 77</telefon>
+  </ogrenci>
+</ogrenciler>
